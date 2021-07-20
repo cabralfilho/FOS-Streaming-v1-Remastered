@@ -1,7 +1,7 @@
 
 #!/bin/bash
 
-# FUNCTION: Ubuntu 14.04 Check
+# FUNCTION: Ubuntu 20.04 Check
 distro(){
 if [ -f /etc/lsb-release ]; then
     . /etc/lsb-release
